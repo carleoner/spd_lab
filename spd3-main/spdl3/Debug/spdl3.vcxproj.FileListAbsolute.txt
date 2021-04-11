@@ -1,0 +1,3 @@
+K:\PWR\VI sem\SPD\spd3\spdl3\Debug\spdl3.exe
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\Debug\spdl3.exe
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\Debug\spdl3.pdb

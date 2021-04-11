@@ -1,0 +1,6 @@
+﻿  instancja.cpp
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\RandomNumberGenerator.h(29,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\instancja.cpp(68,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\instancja.cpp(79,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\instancja.cpp(108,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  spdl3.vcxproj -> C:\Users\kubaw\source\repos\SPD lab\spd3-main\spdl3\Debug\spdl3.exe
